@@ -56,9 +56,3 @@ This project predicts whether a person is diabetic based on medical diagnostic m
 
 ---
 
-## 📌 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
-   cd diabetes-prediction
